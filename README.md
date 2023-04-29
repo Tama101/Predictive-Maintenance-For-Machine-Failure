@@ -1,4 +1,4 @@
-#**Predictive Maintenance For Machine Failure**
+# **Predictive Maintenance For Machine Failure**
 
 This project aims to develop a predictive maintenance model using an Artificial Neural Network (ANN) that can accurately classify failure types and predict the occurrence of a failure in a binary format. The model uses five features, namely air temperature, process temperature, rotational speed, torque, and tool wear to predict the target features.
 
