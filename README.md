@@ -11,3 +11,5 @@ The second target feature is the occurrence of failure, which is a binary classi
 The model uses an Artificial Neural Network (ANN) to make predictions, which is a powerful machine learning algorithm capable of handling non-linear relationships between input features and target variables. The ANN is trained using a large dataset of historical data, which enables the model to learn patterns and make accurate predictions.
 
 Overall, this project demonstrates the effectiveness of using an ANN-based approach to develop a predictive maintenance model for industrial systems. The model's high accuracy in predicting failure types and occurrence can help improve system uptime, reduce maintenance costs, and increase overall productivity.
+
+CLICK HERE --> https://github.com/Tama101/Predictive-Maintenance-For-Machine-Failure/blob/main/Predictive_Maintenance_Multi_Output_Classification.ipynb
